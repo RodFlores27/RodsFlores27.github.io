@@ -1,1 +1,8 @@
-filler
+body {
+	font-family : Arial;
+}
+
+h3 {
+	position : relative;
+	left : 40px;
+}
